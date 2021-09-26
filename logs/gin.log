@@ -1,0 +1,689 @@
+package logs
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (5 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Thu, 16 Sep 2021 10:00:35 +05] "GET /ping HTTP/1.1 200 0s "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 18:57:43 +05] "GET / HTTP/1.1 500 7.5375ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 19:02:59 +05] "GET / HTTP/1.1 500 4.2509ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 19:11:57 +05] "GET / HTTP/1.1 500 14.2631ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 19:12:26 +05] "GET / HTTP/1.1 200 12.1231ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 19:18:42 +05] "GET / HTTP/1.1 200 13.7391ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 19:19:10 +05] "GET / HTTP/1.1 200 12.8342ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 19:22:34 +05] "GET / HTTP/1.1 200 12.7947ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:13:12 +05] "GET / HTTP/1.1 200 138.8296ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:14:09 +05] "GET / HTTP/1.1 200 10.4269ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:14:24 +05] "GET / HTTP/1.1 200 2.1759ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:16:32 +05] "GET / HTTP/1.1 200 4.9166ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:18:54 +05] "GET / HTTP/1.1 200 2.8467ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:19:22 +05] "GET / HTTP/1.1 200 8.146ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:25:34 +05] "GET /goods/1 HTTP/1.1 200 4.043ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:26:59 +05] "GET / HTTP/1.1 200 11.372ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:28:30 +05] "GET / HTTP/1.1 200 4.6961ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:28:48 +05] "GET / HTTP/1.1 200 5.4845ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:30:27 +05] "GET / HTTP/1.1 200 10.9741ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:30:38 +05] "GET / HTTP/1.1 200 5.2233ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:30:42 +05] "GET /goods/1 HTTP/1.1 200 1.1205ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:30:44 +05] "GET /goods/1 HTTP/1.1 200 616.1µs "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:31:45 +05] "GET /goods/1 HTTP/1.1 200 2.6219ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:32:28 +05] "GET /goods/1 HTTP/1.1 200 4.02ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:37:10 +05] "GET /goods/1 HTTP/1.1 200 4.4569ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:38:23 +05] "GET /goods/1 HTTP/1.1 200 4.7509ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:39:28 +05] "GET /goods/1 HTTP/1.1 200 5.4232ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:39:55 +05] "GET /goods/1 HTTP/1.1 200 4.3928ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:42:56 +05] "GET /goods/1 HTTP/1.1 200 4.2864ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:55:19 +05] "POST /view/4 HTTP/1.1 500 0s "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:56:39 +05] "POST /view/4 HTTP/1.1 500 498.1µs "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:56:47 +05] "POST /view/4 HTTP/1.1 500 555.7µs "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:56:54 +05] "POST /view/4 HTTP/1.1 500 7.5362ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:57:22 +05] "POST /view/4 HTTP/1.1 500 4.7433ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:57:46 +05] "POST /view/4 HTTP/1.1 500 8.9945ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:58:31 +05] "POST /view/4 HTTP/1.1 500 9.2207ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:58:52 +05] "POST /view/4 HTTP/1.1 500 9.7968ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:59:00 +05] "POST /view/4 HTTP/1.1 200 3.1439ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:59:10 +05] "GET /goods/1 HTTP/1.1 200 3.4348ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:59:11 +05] "GET /goods/1 HTTP/1.1 200 2.1774ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:59:11 +05] "GET /goods/1 HTTP/1.1 200 2.2818ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 20:59:12 +05] "GET /goods/1 HTTP/1.1 200 3.2987ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 21:00:05 +05] "POST /view/4 HTTP/1.1 200 1.9972ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 21:00:09 +05] "GET /goods/1 HTTP/1.1 200 3.1085ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 21:00:38 +05] "POST /view/4 HTTP/1.1 200 1.6397ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 21:00:58 +05] "POST /view/4 HTTP/1.1 500 16.7324ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 18 Sep 2021 21:01:26 +05] "POST /view/4 HTTP/1.1 200 3.4168ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 12:01:21 +05] "GET /ping HTTP/1.1 200 154.9µs "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 12:01:26 +05] "GET / HTTP/1.1 200 42.7877ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 14:15:28 +05] "GET / HTTP/1.1 200 7.2842ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 14:16:08 +05] "GET / HTTP/1.1 200 6.3307ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 14:16:14 +05] "GET /images/4 HTTP/1.1 200 1.7373ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 14:16:43 +05] "GET /images/4 HTTP/1.1 200 2.1736ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 14:16:44 +05] "GET /images/4 HTTP/1.1 200 1.108ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 14:16:44 +05] "GET /images/4 HTTP/1.1 200 1.6352ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 14:17:25 +05] "GET /images/4 HTTP/1.1 200 2.291ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 14:17:55 +05] "GET /images/4 HTTP/1.1 500 10.9656ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 14:19:10 +05] "GET /images/4 HTTP/1.1 200 2.185ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 14:20:57 +05] "GET /images/4 HTTP/1.1 200 2.2828ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 14:21:27 +05] "GET /images/4 HTTP/1.1 200 3.0449ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 14:25:38 +05] "GET /images/4 HTTP/1.1 200 2.2804ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 14:25:55 +05] "GET /images/4 HTTP/1.1 200 1.7909ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 14:30:22 +05] "GET /images/4 HTTP/1.1 200 3.046ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 14:30:28 +05] "GET / HTTP/1.1 200 7.069ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 14:32:12 +05] "GET / HTTP/1.1 200 7.8624ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 14:33:18 +05] "GET / HTTP/1.1 200 8.7951ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 14:35:29 +05] "GET / HTTP/1.1 200 7.2741ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 14:35:45 +05] "GET /goods/1 HTTP/1.1 200 2.6111ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 14:36:44 +05] "GET /goods/1 HTTP/1.1 200 3.9683ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 14:37:07 +05] "GET /goods/1 HTTP/1.1 200 2.6991ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:15:31 +05] "POST /view/4 HTTP/1.1 500 2.3321ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:16:24 +05] "POST /view/4 HTTP/1.1 200 4.4958ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:16:31 +05] "GET /goods/1 HTTP/1.1 200 7.0322ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:16:36 +05] "GET /goods/1 HTTP/1.1 200 2.7087ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:16:36 +05] "GET /goods/1 HTTP/1.1 200 1.8783ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:16:37 +05] "GET /goods/1 HTTP/1.1 200 2.4433ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:16:37 +05] "GET /goods/1 HTTP/1.1 200 3.0288ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:16:37 +05] "GET /goods/1 HTTP/1.1 200 2.0776ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:16:37 +05] "GET /goods/1 HTTP/1.1 200 2.4736ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:16:37 +05] "GET /goods/1 HTTP/1.1 200 1.9363ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:16:38 +05] "GET /goods/1 HTTP/1.1 200 2.0639ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:17:45 +05] "POST /view/4 HTTP/1.1 200 3.0995ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:18:08 +05] "POST /view/4 HTTP/1.1 200 3.1354ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:19:16 +05] "POST /view/4 HTTP/1.1 200 2.9565ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:19:59 +05] "POST /view/4 HTTP/1.1 200 3.2221ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:20:32 +05] "POST /view/4 HTTP/1.1 200 13.2301ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:20:39 +05] "GET /goods/1 HTTP/1.1 200 2.8665ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:20:44 +05] "POST /view/4 HTTP/1.1 200 2.5625ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:21:03 +05] "POST /view/3 HTTP/1.1 200 2.1555ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:21:06 +05] "GET /goods/1 HTTP/1.1 200 1.9533ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:21:15 +05] "POST /view/4 HTTP/1.1 200 2.1696ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:21:15 +05] "POST /view/4 HTTP/1.1 200 2.7565ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:21:16 +05] "POST /view/4 HTTP/1.1 200 4.5091ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:21:16 +05] "POST /view/4 HTTP/1.1 200 5.0099ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:21:16 +05] "POST /view/4 HTTP/1.1 200 3.7182ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:21:16 +05] "POST /view/4 HTTP/1.1 200 2.0048ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:21:16 +05] "POST /view/4 HTTP/1.1 200 2.2298ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:21:17 +05] "POST /view/4 HTTP/1.1 200 5.857ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:21:17 +05] "POST /view/4 HTTP/1.1 200 4.872ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:21:17 +05] "POST /view/4 HTTP/1.1 200 5.2123ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:21:17 +05] "POST /view/4 HTTP/1.1 200 5.0055ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:21:18 +05] "POST /view/4 HTTP/1.1 200 2.5881ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:21:19 +05] "POST /view/4 HTTP/1.1 200 2.3154ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:21:20 +05] "POST /view/4 HTTP/1.1 200 2.4966ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:21:20 +05] "POST /view/4 HTTP/1.1 200 5.7168ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:21:28 +05] "GET /goods/1 HTTP/1.1 200 1.9407ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:23:28 +05] "GET /goods/1 HTTP/1.1 200 4.2879ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:23:29 +05] "GET /goods/1 HTTP/1.1 200 2.2723ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:23:32 +05] "POST /view/4 HTTP/1.1 200 8.5472ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:23:32 +05] "POST /view/4 HTTP/1.1 200 1.836ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:23:38 +05] "POST /view/4 HTTP/1.1 200 3.1447ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:24:06 +05] "POST /view/4 HTTP/1.1 200 8.7818ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:24:53 +05] "POST /view/4 HTTP/1.1 200 8.454ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:25:59 +05] "POST /view/4 HTTP/1.1 200 12.1903ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:03 +05] "POST /view/4 HTTP/1.1 200 1.1796ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:04 +05] "POST /view/4 HTTP/1.1 200 1.071ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:05 +05] "POST /view/4 HTTP/1.1 200 1.4941ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:05 +05] "POST /view/4 HTTP/1.1 200 1.1913ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:09 +05] "GET /goods/1 HTTP/1.1 200 3.338ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:10 +05] "GET /goods/1 HTTP/1.1 200 2.2845ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:10 +05] "GET /goods/1 HTTP/1.1 200 2.0231ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:12 +05] "POST /view/4 HTTP/1.1 200 1.105ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:12 +05] "POST /view/4 HTTP/1.1 200 1.1372ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:12 +05] "POST /view/4 HTTP/1.1 200 875.8µs "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:12 +05] "POST /view/4 HTTP/1.1 200 1.1658ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:12 +05] "POST /view/4 HTTP/1.1 200 1.8116ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:12 +05] "POST /view/4 HTTP/1.1 200 973.7µs "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:15 +05] "GET /goods/1 HTTP/1.1 200 2.0805ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:15 +05] "GET /goods/1 HTTP/1.1 200 1.8984ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:16 +05] "GET /goods/1 HTTP/1.1 200 2.4189ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:16 +05] "GET /goods/1 HTTP/1.1 200 2.7732ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:16 +05] "GET /goods/1 HTTP/1.1 200 2.0706ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:22 +05] "POST /view/3 HTTP/1.1 200 4.3914ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:23 +05] "POST /view/3 HTTP/1.1 200 1.0013ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:23 +05] "POST /view/3 HTTP/1.1 200 1.5261ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:23 +05] "POST /view/3 HTTP/1.1 200 1.2561ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:24 +05] "POST /view/3 HTTP/1.1 200 1.3569ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:24 +05] "POST /view/3 HTTP/1.1 200 1.0682ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:24 +05] "POST /view/3 HTTP/1.1 200 901.2µs "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:24 +05] "POST /view/3 HTTP/1.1 200 2.8378ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:24 +05] "POST /view/3 HTTP/1.1 200 712.5µs "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:24 +05] "POST /view/3 HTTP/1.1 200 1.2541ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:25 +05] "POST /view/3 HTTP/1.1 200 1.0208ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:25 +05] "POST /view/3 HTTP/1.1 200 1.4388ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:25 +05] "POST /view/3 HTTP/1.1 200 636.7µs "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:29 +05] "GET /goods/1 HTTP/1.1 200 2.2158ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:32 +05] "GET /goods/1 HTTP/1.1 200 2.6424ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:33 +05] "GET /goods/1 HTTP/1.1 200 1.5706ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:26:33 +05] "GET /goods/1 HTTP/1.1 200 2.5003ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:28:44 +05] "GET /ping HTTP/1.1 200 0s "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:28:46 +05] "GET / HTTP/1.1 500 12.9719ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:28:55 +05] "GET /images/3 HTTP/1.1 200 2.2932ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:28:58 +05] "GET /goods/1 HTTP/1.1 200 2.6139ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:30:51 +05] "GET /goods/1 HTTP/1.1 200 3.6913ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 15:30:54 +05] "GET / HTTP/1.1 200 5.9669ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 23:25:12 +05] "GET / HTTP/1.1 200 19.8748ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 23:25:38 +05] "GET /goods/1 HTTP/1.1 200 13.9821ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 23:26:07 +05] "GET /goods/1?page=1&limit=10 HTTP/1.1 500 4.738ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 23:26:30 +05] "GET /goods/1?page=1&limit=10 HTTP/1.1 200 8.4214ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 23:26:39 +05] "GET /goods/1?page=1&limit=3 HTTP/1.1 200 2.7372ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 23:26:45 +05] "GET /goods/1 HTTP/1.1 200 11.871ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 23:29:03 +05] "GET /goods/1?page=1&limit=3 HTTP/1.1 200 5.3844ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 23:29:10 +05] "GET /goods/1?page=2&limit=3 HTTP/1.1 200 3.2369ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 23:52:16 +05] "GET /search?query=Bil&discount_amount=25&price_from=100&price_to=1000&page=2&limit=3 HTTP/1.1 200 6.105ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 23:52:39 +05] "GET /search?query=%D0%9A%D0%BE%D1%80%D0%B2%D0%BE%D0%BD&discount_amount=25&price_from=100&price_to=1000&page=1&limit=3 HTTP/1.1 200 2.1831ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 23:53:06 +05] "GET /search?query=%D0%9A%D0%BE%D1%80%D0%B2%D0%BE%D0%BD&discount_amount=25&price_from=100&price_to=1000 HTTP/1.1 200 12.1424ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sun, 19 Sep 2021 23:54:56 +05] "GET /search?query=%D0%9A%D0%BE%D1%80%D0%B2%D0%BE%D0%BD&discount_amount=25&price_from=100&price_to=1000 HTTP/1.1 200 4.3465ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 25 Sep 2021 15:17:08 +05] "GET /ping HTTP/1.1 200 2.9993ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 25 Sep 2021 15:17:40 +05] "GET /goods/1?page=2&limit=3 HTTP/1.1 200 76.8862ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 25 Sep 2021 15:17:49 +05] "GET /search?query=%D0%9A%D0%BE%D1%80%D0%B2%D0%BE%D0%BD&discount_amount=25&price_from=100&price_to=1000 HTTP/1.1 200 6.1161ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 25 Sep 2021 15:17:54 +05] "POST /view/3 HTTP/1.1 200 11.3187ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 25 Sep 2021 15:21:56 +05] "POST /view/3 HTTP/1.1 200 4.3956ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 25 Sep 2021 15:22:44 +05] "GET / HTTP/1.1 200 40.2487ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 25 Sep 2021 15:22:58 +05] "GET /get_image/images/banners/1.jpg HTTP/1.1 404 1.4903ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 25 Sep 2021 15:24:13 +05] "GET /get_image/images/banners/1.jpg HTTP/1.1 200 875.7µs "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 25 Sep 2021 15:24:58 +05] "GET /get_image/images/banners/1.jpg HTTP/1.1 200 1.0002ms "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" 
+[GIN] 127.0.0.1 - [Sat, 25 Sep 2021 15:24:59 +05] "GET /favicon.ico HTTP/1.1 404 0s "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:image_name    --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 25 Sep 2021 15:26:20 +05] "GET /get_image/1.jpg HTTP/1.1 200 543.9µs "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 25 Sep 2021 15:28:45 +05] "GET / HTTP/1.1 200 28.5924ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 25 Sep 2021 15:28:57 +05] "GET /get_image/images/banners/1.PNG HTTP/1.1 404 0s "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 25 Sep 2021 15:29:06 +05] "GET /get_image/images/banners/1.png HTTP/1.1 404 0s "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 25 Sep 2021 15:30:16 +05] "GET /get_image/images/banners/1.png HTTP/1.1 200 1.0364ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 25 Sep 2021 15:31:45 +05] "GET /get_image/images/banners/1.png HTTP/1.1 200 425.3µs "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 25 Sep 2021 16:26:12 +05] "GET /get_image/images/banners/1.png HTTP/1.1 200 3.3134ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 25 Sep 2021 16:28:52 +05] "GET /get_image/images/banners/1.png HTTP/1.1 200 1.0565ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 25 Sep 2021 16:33:48 +05] "GET /get_image/images/banners/1.png HTTP/1.1 200 993.3µs "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> favran/routes.PingPong (6 handlers)
+[GIN-debug] GET    /                         --> favran/pkg/controller.GetMainPageContent (6 handlers)
+[GIN-debug] GET    /goods/:category_id       --> favran/pkg/controller.GetCategoryGoods (6 handlers)
+[GIN-debug] GET    /search                   --> favran/pkg/controller.Search (6 handlers)
+[GIN-debug] GET    /get_image/:f1/:f2/:image_name --> favran/pkg/controller.GetImage (6 handlers)
+[GIN-debug] POST   /view/:good_id            --> favran/pkg/controller.AddViewToTheGood (6 handlers)
+[GIN-debug] GET    /images/:id               --> favran/pkg/controller.GetGoodInfo (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8585
+[GIN] 127.0.0.1 - [Sat, 25 Sep 2021 23:27:55 +05] "GET /ping HTTP/1.1 200 0s "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 25 Sep 2021 23:27:58 +05] "GET / HTTP/1.1 200 105.141ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 25 Sep 2021 23:46:36 +05] "GET /search?query=%D0%9A%D0%BE%D1%80%D0%B2%D0%BE%D0%BD&discount_amount=25&price_from=100&price_to=1000&page=1&limit=3 HTTP/1.1 200 8.6883ms "insomnia/2021.5.3" 
+[GIN] 127.0.0.1 - [Sat, 25 Sep 2021 23:47:25 +05] "GET /search?query=%D0%9A%D0%BE%D1%80%D0%B2%D0%BE%D0%BD&discount_amount=25&price_from=100&price_to=1000&page=1&limit=3 HTTP/1.1 200 2.4054ms "insomnia/2021.5.3" 
