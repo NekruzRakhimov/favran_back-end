@@ -1,8 +1,8 @@
 package db
 
 import (
-	"favran/utils"
 	"fmt"
+	"github.com/NekruzRakhimov/favran/utils"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/postgres"
 	"log"

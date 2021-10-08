@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"favran/pkg/controller"
+	"github.com/NekruzRakhimov/favran/pkg/controller"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )

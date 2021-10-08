@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"favran/models"
+	"github.com/NekruzRakhimov/favran/models"
 	"github.com/gin-gonic/gin"
 	"strconv"
 )

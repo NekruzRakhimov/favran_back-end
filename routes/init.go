@@ -1,9 +1,10 @@
 package routes
 
 import (
-	"favran/pkg/controller"
-	"favran/utils"
+	"github.com/NekruzRakhimov/favran/pkg/controller"
+	"github.com/NekruzRakhimov/favran/utils"
 	"github.com/gin-gonic/gin"
+	"os"
 )
 
 func InitAllRoutes() {
@@ -25,5 +26,5 @@ func InitAllRoutes() {
 	runAllRoutes(r)
 
 	// Запуск сервера
-	_ = r.Run(utils.AppSettings.AppParams.PortRun)
+	_ = r.Run(":" + os.Getenv("PORT"))
 }

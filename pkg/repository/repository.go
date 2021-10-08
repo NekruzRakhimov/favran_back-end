@@ -1,9 +1,9 @@
 package repository
 
 import (
-	"favran/db"
-	"favran/models"
 	"fmt"
+	"github.com/NekruzRakhimov/favran/db"
+	"github.com/NekruzRakhimov/favran/models"
 	"github.com/jinzhu/gorm"
 )
 

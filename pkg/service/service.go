@@ -1,8 +1,8 @@
 package service
 
 import (
-	"favran/models"
-	"favran/pkg/repository"
+	"github.com/NekruzRakhimov/favran/models"
+	"github.com/NekruzRakhimov/favran/pkg/repository"
 )
 
 func GetTopCategoriesGoods() (topCategoriesGoods []models.TopCategory, err error) {

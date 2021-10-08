@@ -1,11 +1,11 @@
 package controller
 
 import (
-	"favran/models"
-	"favran/pkg/repository"
-	"favran/pkg/service"
-	"favran/utils"
 	"fmt"
+	"github.com/NekruzRakhimov/favran/models"
+	"github.com/NekruzRakhimov/favran/pkg/repository"
+	"github.com/NekruzRakhimov/favran/pkg/service"
+	"github.com/NekruzRakhimov/favran/utils"
 	"github.com/gin-gonic/gin"
 	"net/http"
 	"strconv"

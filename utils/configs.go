@@ -2,8 +2,8 @@ package utils
 
 import (
 	"encoding/json"
-	"favran/models"
 	"fmt"
+	"github.com/NekruzRakhimov/favran/models"
 	"log"
 	"os"
 )

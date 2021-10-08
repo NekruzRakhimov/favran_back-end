@@ -5,14 +5,6 @@
     "server_url": "192.168.100.80",
     "log_file": "./logs/gin.log"
   },
-  "postgres_params_prod": {
-    "server": "192.168.150.68",
-    "port": 5432,
-    "user": "lk_pre_prod",
-    "password": "humo@lk_pre_prod",
-    "database2": "humo_online_pre_prod",
-    "database": "test_prod_db"
-  },
   "postgres_params": {
     "server": "127.0.0.1",
     "port": 5432,
